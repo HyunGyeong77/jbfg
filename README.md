@@ -13,6 +13,7 @@ JB금융그룹 메인 페이지를 모작하기 위해 제작한 사이트입니
 
 ## ⚙️ 개발 환경
 - 언어 : JSX / SCSS / JS
+- 프레임워크 : Next.js
 - 라이브러리 : React
 - 도구 : VS Code / Git
 - 배포 : Github Pages
