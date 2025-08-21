@@ -29,12 +29,12 @@ JB금융그룹 메인 페이지를 모작하기 위해 제작한 사이트입니
 
 ## 🖥️ 화면 구성
 ### 메인 페이지
-![섹션1](https://hyungyeong77.github.io/jbfg/images/main_section1.png),
-![섹션2](https://hyungyeong77.github.io/jbfg/images/main_section2.png),
-![섹션3](https://hyungyeong77.github.io/jbfg/images/main_section3.png),
-![섹션4](https://hyungyeong77.github.io/jbfg/images/main_section4.png),
-![섹션5](https://hyungyeong77.github.io/jbfg/images/main_section5.png),
-![섹션6](https://hyungyeong77.github.io/jbfg/images/main_section6.png),
+![섹션1](https://hyungyeong77.github.io/jbfg/images/main_section1.png)
+![섹션2](https://hyungyeong77.github.io/jbfg/images/main_section2.png)
+![섹션3](https://hyungyeong77.github.io/jbfg/images/main_section3.png)
+![섹션4](https://hyungyeong77.github.io/jbfg/images/main_section4.png)
+![섹션5](https://hyungyeong77.github.io/jbfg/images/main_section5.png)
+![섹션6](https://hyungyeong77.github.io/jbfg/images/main_section6.png)
 
 ## 개발 과정에서 학습한 내용
 - 관성 스크롤링을 이용한 부드러운 스크롤 구현
